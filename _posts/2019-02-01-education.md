@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Uniones para SQL."
-categories: [ Jekyll, tutorial ]
+categories: [ SQL ]
 image: assets/images/3.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor

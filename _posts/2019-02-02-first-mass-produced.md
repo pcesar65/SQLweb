@@ -2,7 +2,7 @@
 layout: post
 title:  "Manipulación para SQL"
 author: sal
-categories: [ tutorial ]
+categories: [ SQL ]
 image: assets/images/17.jpg
 tags: [featured]
 ---
