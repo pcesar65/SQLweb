@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to SQLatino!"
+title:  "Bienvenidos a SQLatino!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
-Official Site Summer 2020
+Sitio oficial Verano 2020
