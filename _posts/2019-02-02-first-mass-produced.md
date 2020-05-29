@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title:  "Manipulación para SQL"
 author: sal
 categories: [ tutorial ]
 image: assets/images/17.jpg

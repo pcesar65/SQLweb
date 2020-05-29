@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "Uniones para SQL."
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
