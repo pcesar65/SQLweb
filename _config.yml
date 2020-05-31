@@ -20,36 +20,36 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           Cesar
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Cesar P the founder of SQlatino "
+      email:          
+      twitter:        
 
     jane:
       name:           Jane
-      site:           https://www.wowthemes.net
+      site:           
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          
+      twitter:        
 
     sah:
       name:           Sal
-      site:           https://www.wowthemes.net
+      site:           
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Sal, the author of some SQL and Python articles"
+      email:          
+      twitter:        
 
-    ja,ne:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    Vanesa:
+      name:           Vanesa
+      site:           
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      bio:            "Managing, Accounting and Spanish Translator"
       email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet     
+      twitter:             
 
 
 # Defaults
