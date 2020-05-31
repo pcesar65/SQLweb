@@ -35,21 +35,30 @@ authors:
       email:          
       twitter:        
 
-    sah:
+    Sal:
       name:           Sal
       site:           
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/avatar5.jpg
       bio:            "Hi, I am Sal, the author of some SQL and Python articles"
       email:          
       twitter:        
 
-    Vanesa:
-      name:           Vanesa
+    Liliana:
+      name:           Liliana
       site:           
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         /assets/images/avatar3.jpg
+      bio:            "Spanish Translator"
+      email:          fakemail@gmail.com
+      twitter:             
+
+    Sarina:
+      name:           Sarina
+      site:           
+      avatar:         /assets/images/avatar4.jpg
       bio:            "Managing, Accounting and Spanish Translator"
       email:          fakemail@gmail.com
       twitter:             
+
 
 
 # Defaults
