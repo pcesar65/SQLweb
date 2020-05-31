@@ -23,12 +23,28 @@ authors:
       name:           cesar
       site:           https://www.gonumero.com
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Cesar, the creator of GoNumero, I hope you like it!"
+      bio:            "Hi, I am Cesar, the creator of SQlatino, I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        
 
     jane:
       name:           Jane
+      site:          
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        
+ 
+     jane:
+      name:           Robert
+      site:          
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        
+ 
+    jane:
+      name:           Vanesa
       site:          
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
