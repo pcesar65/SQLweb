@@ -3,7 +3,7 @@ name: 'SQlatino'
 description: 'Data Science knowledge in spanish and english'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/log.png'
-baseurl: ""
+baseurl: "/"
 disqus: 'demowebsite'
 email: ' '
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
