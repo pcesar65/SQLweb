@@ -18,4 +18,3 @@ Dirección de Correo Electrónico @*" required>
 Mensaje*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
 </form>
-dhjdhjgdhg 
